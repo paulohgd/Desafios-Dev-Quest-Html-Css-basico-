@@ -1,13 +1,18 @@
 .moda{
     background-color: #BB86FC;
     color: white;
-    text-align: center;
 }
 td{
     background-color: #424250;
     color: white;
     text-align: center;
+    padding: 5px;
 }
 .casa{
     background-color: #00C4B4;
+    height: 25px;
+}
+th{
+    padding: 5px;
+    text-align: center;
 }
